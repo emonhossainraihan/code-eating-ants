@@ -60,4 +60,7 @@ for (let element of [...document.querySelectorAll(".athing")]) {
 - (write code) - Extract html, mhtml, pdf, full page screenshot.
 - (show screenshot) - Convert mhtml to html and show in the browser.
 
-All work to be submitted in github classroom as experiment.
+## important packages
+
+- `npm i serve`
+- `npm i mhtml2html`
